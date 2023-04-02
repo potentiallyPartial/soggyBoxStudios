@@ -52,6 +52,10 @@ li.list a:hover:not(.active) {
     
   }
 
+  h3{
+    color: #E8EBE4;
+    text-align: center;
+  }
   p{
     text-align: center;
   }
@@ -62,6 +66,15 @@ li.list a:hover:not(.active) {
     margin-right: auto;
     width: auto;
     height: 800px;
+  }
+
+  .icon {
+    width: auto;
+    height:200px;
+  }
+
+  .text {
+    color:#E8EBE4
   }
 
 
