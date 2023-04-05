@@ -3,7 +3,7 @@ ul.list{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #19376D;
 
   position: -webkit-sticky; 
   position: sticky;
@@ -29,15 +29,11 @@ li.list a {
 
 
 li.list a:hover:not(.active) {
-  background-color: #A17C6B;
-}
-
-.active {
-  background-color: #FF6933;
+  background-color: #A5D7E8;
 }
 
   body {
-    background-color: #6F7D8C;
+    background-color: #0B2447;
   }
   
   h1 {
@@ -58,6 +54,12 @@ li.list a:hover:not(.active) {
   }
   p{
     text-align: center;
+  }
+
+  /*.________ modifiers*/
+
+  .active {
+    background-color: #FF6933;
   }
 
   .center {
@@ -108,4 +110,4 @@ div.desc {
 h3{
   text-align: center;
   color:#ccc
-}
+} 
