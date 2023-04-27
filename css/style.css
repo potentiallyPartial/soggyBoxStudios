@@ -80,7 +80,17 @@ li.list a:hover:not(.active) {
   .about{
     color:#E8EBE4
   }
+/*alt image txt blk*/
 
+.containerL{
+  display:flex;
+  align-items: center;
+}
+
+img{
+  max-width: 100%;
+}
+ 
 /* Galarry Css */
 div.gallery {
   margin: 5px;
