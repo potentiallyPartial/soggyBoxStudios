@@ -81,6 +81,15 @@ li.list a:hover:not(.active) {
   .about{
     color:#E8EBE4
   }
+
+  .grey{
+    color:#333
+  }
+
+  .comSec{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
 /*alt image txt blk*/
 
 .containerL{
