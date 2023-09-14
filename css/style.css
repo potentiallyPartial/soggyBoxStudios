@@ -149,6 +149,10 @@ img{
    column-count:         1;
   }
 }
+
+.gallBdr {
+  border: 5px solid #333;
+}
 /*progams style*/
 
 h3{
